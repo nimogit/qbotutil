@@ -1,0 +1,19 @@
+{
+    "name": "qassiounutil/qassiounutil",
+    "description": "qassioun es tools",
+    "keywords": ["page","paging", "paginator", "pagination"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nimo Git",
+            "email": "nimogit@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": { "\\": "/" }
+    }
+}
